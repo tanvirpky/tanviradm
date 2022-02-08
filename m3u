@@ -4,3 +4,7 @@
 http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://str24.l9574.com:80/615.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
+http://103.153.39.36:8000/play/a01z
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
+http://103.166.253.222/hls/starjalsha.m3u8
