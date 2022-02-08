@@ -2,4 +2,7 @@
 #SOURCEIT
 #EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",1.Star Jalsha 
 http://live.flixhub.net/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",1.Star Jalsha
+#EXTINF:-1 tvg-logo="https://group-title="zee Bangla ",1.zee Bangla
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://group-title="pix ",1.Sony pix
+http://live.flixhub.net/hls/sonypixhd.m3u8
