@@ -5,7 +5,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",1.Star Jalsha 
 http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://group-title="zee Bangla ",1.zee Bangla
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://str24.l9574.com:80/615.stream/index.m3u8
 #EXTINF:-http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
 https://ranapk.tk/Pogo_Hindi_PK
