@@ -1,5 +1,7 @@
 #EXTM3U
 #SOURCEIT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" , Sony MAX (pk)
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",1.Star Jalsha 
 http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://group-title="zee Bangla ",1.zee Bangla
