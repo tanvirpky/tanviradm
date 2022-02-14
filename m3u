@@ -1,21 +1,3 @@
 #EXTM3U
 #SOURCEIT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" , Sony MAX (pk)
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",1.Star Jalsha 
-http://live.flixhub.net/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://group-title="zee Bangla ",1.zee Bangla
-http://str24.l9574.com:80/615.stream/index.m3u8
-#EXTINF:-http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
-https://ranapk.tk/Pogo_Hindi_PK
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi
-https://ranapk.tk/Nick_hindi_Pk
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/sm/nick.png" , Nick Bangla
-http://bciptv.net:8082/duronto-tv/index.m3u8?token=f655a26ba6de57a84701cd786214f36b35ef55a8-82cfb3a18155571f055c036dc127b9c1-1644394198-1644383398
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network RU
-http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://group-title="Star Jalsha ",80.Star Jalsha
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+#EXTINF:-1 http://ftp5.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/The%20Outpost%20%28TV%20Series%202018-%29%20Hindi%20Dubbed/Season%201%201080p/The%20Outpost%20S01%20E03%20Hindi%201080p%20MX%20WebDL%20X264%20AAC%202.0%20-%20Telly.mp4
